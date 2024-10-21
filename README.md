@@ -17,12 +17,12 @@ I am a recent Computer Science graduate from Louisiana State University (LSU), w
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" align="left" width=40px/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" align="left" width=40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" align="left" width=40px/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spark/spark-original.svg" alt="Apache Spark" align="left" width=40px/> 
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original.svg" alt="Apache Spark" align="left" width=40px/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" alt="Hadoop" align="left" width=40px/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" align="left" width=40px/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" align="left" width=40px/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws-original.svg" alt="AWS" align="left" width=40px/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcp/gcp-original.svg" alt="Google Cloud" align="left" width=40px/> 
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" align="left" width=40px/> 
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" align="left" width=40px/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQL" align="left" width=40px/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" align="left" width=40px/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" align="left" width=40px/>
@@ -37,8 +37,6 @@ I am a recent Computer Science graduate from Louisiana State University (LSU), w
 <br/> 
 <br/> 
 <br/>
-
-
 
 
 ## 🎊 GRADUATED DECEMBER 2023 BS CS @ LSU!!
