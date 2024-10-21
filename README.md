@@ -1,6 +1,10 @@
-## Hi there 👋
 
 ## :information_source: About Me
+<img src="/Users/parimalkashireddy/Desktop/pkashi1/myslide.jpg" alt="My Slide" width="100%"/>
+
+<br/>
+<br/>
+<br/>
 I am a recent Computer Science graduate from Louisiana State University (LSU), where I developed a strong foundation in data science, software engineering, and cloud computing. Throughout my academic journey, I actively engaged in student projects, internships, and research, particularly focusing on data manipulation, machine learning, and cloud services integration. I am currently focused on expanding my expertise in data engineering, cloud infrastructure, and artificial intelligence.
 
 ## :telephone_receiver: Let's Connect!
