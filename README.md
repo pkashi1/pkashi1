@@ -1,6 +1,6 @@
 
+![mountains-sunset](myslide.jpg)
 ## :information_source: About Me
-<img src="/Users/parimalkashireddy/Desktop/pkashi1/myslide.jpg" alt="My Slide" width="100%"/>
 
 <br/>
 <br/>
