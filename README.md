@@ -3,7 +3,11 @@
 ## :information_source: About Me
 <br/>
 Hi, I am a recent Computer Science graduate from Louisiana State University (LSU), where I developed a strong foundation in data science, software engineering, and cloud computing. Throughout my academic journey, I actively engaged in student projects, internships, and research, particularly focusing on data manipulation, machine learning, and cloud services integration. I am currently focused on expanding my expertise in data engineering, cloud infrastructure, and artificial intelligence.
+<br/>
+<br/>
+
 ## :telephone_receiver: Let's Connect!
+
 <a href="https://www.linkedin.com/in/parimal-kashireddy/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="left" width=50px/><a/> 
 <br/>
 
